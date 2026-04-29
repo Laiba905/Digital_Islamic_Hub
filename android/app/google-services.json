@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321662909954",
+    "project_id": "digital-islamic-app-2026",
+    "storage_bucket": "digital-islamic-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321662909954:android:868e04401f1eb7b559f11b",
+        "android_client_info": {
+          "package_name": "com.example.digital_islamic_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSexL8U0lQlwUrlTwYzSgaxF35aIOKECw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
